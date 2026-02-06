@@ -5,8 +5,8 @@ I'm a software engineer with a passion for creating elegant solutions to complex
 
 ### About Me
 - Frontend: HTML, CSS, JavaScript/TypeScript, React, Next.js, TailwindCSS, ShadCN UI, Framer Motion  
-- Backend: ASP.NET Core, Express.js, Nest.js, FastAPI  
-- Languages: C, C++, C#, Python, Ruby, PHP, JS/TS  
+- Backend: ASP.NET Core, Node.js(Express, Nest), FastAPI  
+- Languages: Javascript/Typescript, C#, Rust, Python, C, C++
 - DevOps basics: Docker, Docker Compose, VPS hosting  
 - CI/CD: GitHub Actions (learning more!)  
 
