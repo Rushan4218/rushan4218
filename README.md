@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Rushan
 
-<!--
-**Rushan4218/rushan4218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a passion for creating elegant solutions to complex problems. With experience across the full stack, I enjoy working on projects that challenge me to learn and grow.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Frontend: HTML, CSS, JavaScript/TypeScript, React, Next.js, TailwindCSS, ShadCN UI, Framer Motion  
+- Backend: ASP.NET Core, Express.js, Nest.js, FastAPI  
+- Languages: C, C++, C#, Python, Ruby, PHP, JS/TS  
+- DevOps basics: Docker, Docker Compose, VPS hosting  
+- CI/CD: GitHub Actions (learning more!)  
+
+### 🌱 I’m currently learning
+- Advanced DevOps & cloud hosting (AWS, VPS)  
+- New frontend frameworks & UI animations (GSAP)  
+- CI/CD pipelines with GitHub Actions  
+
+### Portfolio
+Check out my portfolio site: [rushanbuyo.com.np](https://rushanbuyo.com.np)  
+
+### 💬 Ask me about
+- Web development (frontend & backend)  
+- TailwindCSS, React, Next.js, ShadCN UI  
+- Docker, FastAPI, ASP.NET Core  
+
+### 📫 How to reach me
+- [Portfolio](https://rushanbuyo.com.np)  
+- [LinkedIn](https://www.linkedin.com/in/rushan-buyo-0a5221294/)  
+- Email: `rushanbuyorb@gmail.com`  
+
+
